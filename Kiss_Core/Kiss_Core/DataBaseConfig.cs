@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 
 namespace Kiss_Core
 {
-    public class DbContext
+    public class DataBaseConfig
     {
+        public string ConnectionString { get; set; }
+
+        public string ProviderMame { get; set; }
     }
 }

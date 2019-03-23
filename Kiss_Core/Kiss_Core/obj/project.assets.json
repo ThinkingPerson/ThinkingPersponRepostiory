@@ -12280,11 +12280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FileSet\\Kiss_Core\\Kiss_Core\\Kiss_Core.csproj",
+      "projectUniqueName": "E:\\FileSet\\LocalRepostiory\\LocalRepostiory\\Kiss_Core\\Kiss_Core\\Kiss_Core.csproj",
       "projectName": "Kiss_Core",
-      "projectPath": "E:\\FileSet\\Kiss_Core\\Kiss_Core\\Kiss_Core.csproj",
+      "projectPath": "E:\\FileSet\\LocalRepostiory\\LocalRepostiory\\Kiss_Core\\Kiss_Core\\Kiss_Core.csproj",
       "packagesPath": "C:\\Users\\lzh\\.nuget\\packages\\",
-      "outputPath": "E:\\FileSet\\Kiss_Core\\Kiss_Core\\obj\\",
+      "outputPath": "E:\\FileSet\\LocalRepostiory\\LocalRepostiory\\Kiss_Core\\Kiss_Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
