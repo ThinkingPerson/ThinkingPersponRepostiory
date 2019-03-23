@@ -1,0 +1,13 @@
+E:\FileSet\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.deps.json
+E:\FileSet\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.runtimeconfig.json
+E:\FileSet\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.runtimeconfig.dev.json
+E:\FileSet\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.dll
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.csproj.CoreCompileInputs.cache
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.RazorAssemblyInfo.cache
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.RazorAssemblyInfo.cs
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.AssemblyInfoInputs.cache
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.AssemblyInfo.cs
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.RazorTargetAssemblyInfo.cache
+E:\FileSet\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.pdb
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.dll
+E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.pdb
