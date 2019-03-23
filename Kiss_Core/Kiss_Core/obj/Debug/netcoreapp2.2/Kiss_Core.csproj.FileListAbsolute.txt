@@ -11,3 +11,17 @@ E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.RazorTargetAsse
 E:\FileSet\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.pdb
 E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.dll
 E:\FileSet\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.pdb
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.csprojAssemblyReference.cache
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.csproj.CoreCompileInputs.cache
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.RazorAssemblyInfo.cache
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.RazorAssemblyInfo.cs
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.AssemblyInfoInputs.cache
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.AssemblyInfo.cs
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.dll
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.pdb
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.deps.json
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.runtimeconfig.json
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.runtimeconfig.dev.json
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.dll
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\bin\Debug\netcoreapp2.2\Kiss_Core.pdb
+C:\lizhihang\.Net Core Project\ThinkingPersponRepostiory\Kiss_Core\Kiss_Core\obj\Debug\netcoreapp2.2\Kiss_Core.RazorTargetAssemblyInfo.cache
