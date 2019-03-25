@@ -23,7 +23,6 @@ namespace Kiss_Core
         {
             command.CommandText = deleteSql;
             return command.ExecuteNonQuery();
-            //return command.ExecuteAsync(deleteSql, new { Id = Id });
         }
 
         public object Select(string selectOneSql)
