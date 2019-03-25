@@ -2,7 +2,7 @@
 
 namespace Kiss_Core
 {
-    public interface IBaseRepository<T>
+     interface IBaseRepository<T>
     {
         int Insert(string insertSql);
 
